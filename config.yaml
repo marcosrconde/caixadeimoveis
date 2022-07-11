@@ -34,7 +34,7 @@ params:
     # Where the main hero button links to
     buttonlink: "https://imoveiscaixa.appgyverapp.com/"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/capa_ex.png
     # Footer logos (from static/images/logos/clients/___.svg)
     # clientlogos:
     # - systek
