@@ -19,16 +19,16 @@ params:
   description:
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/logo-bazar.svg
+    image: logos/logo-bazar.png
     link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Caixa de imóveis
+    title: Bazar de imóveis
     # Hero subtitle (optional)
-    subtitle: Maior e mais completo site de busca de imóveis recuperados de financiamento. Um banco de dados completo e atualizado diariamente. Leilões, venda direta, venda online, licitações e muito mais
+    subtitle: Maior e mais completo serviço de busca de imóveis de leilão extrajudicial. Um banco de dados completo e atualizado diariamente. Imóveis Caixa - Leilões, venda direta, venda online, licitações e muito mais. Imóveis com até 80% de desconto. Economize tempo utilizando filtros de busca avançados. Experimente!
     # Button text
     buttontext: Acessar plataforma de imóveis
     # Where the main hero button links to
@@ -50,19 +50,19 @@ params:
     url: /
   - title: Blog
     url: /blog/first
-  - title: Dropdown
-    sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-  - title: Log in
-    url: /
-  - title: Sign up
-    url: /
-    button: true
+  # - title: Dropdown
+  #   sublinks:
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  # - title: Entrar
+  #   url: /
+  # - title: Sign up
+  #   url: /
+    # button: true
   # sidebar:
   #   # Logo (from /images/logos/___.svg)
   #   logo: fresh-square
@@ -98,24 +98,24 @@ params:
   #     - text: App settings
   #       url: /
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Encontre grandes oportunidades de negócio
+    subtitle: de maneira fácil e rápida
     tiles:
-    - title: App builder
+    - title: Atualizado diariamente
       icon: mouse-globe
-      text: This is some explanatory text that is on two rows
+      text: Vasculhamos o site da Caixa todos os dias. Fique atento e descubra os novos imóveis antes dos concorrentes.
       url: /
-      buttonText: Free trial
-    - title: Cloud integration
+      buttonText: Entenda
+    - title: Filtros avançados
       icon: laptop-cloud
-      text: This is some explanatory text that is on two rows
+      text: Busque imóveis por estado, cidade, condições de pagamento, % de desconto, tipo de imóvel e muito mais.
       url: /
-      buttonText: Get started
-    - title: Add-ons & plugins
+      buttonText: Experimentar
+    - title: Economize tempo
       icon: plug-cloud
-      text: This is some explanatory text that is on two rows
+      text: Salve seus filtros favoritos. Crie listas de imóveis de interesse. Visualize o local do imóvel mapa e street view.
       url: /
-      buttonText: Get started
+      buttonText: Experimentar
   section2:
     title: You're here because you want the best
     subtitle: And we know it
