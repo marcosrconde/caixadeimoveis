@@ -113,45 +113,45 @@ params:
       buttonText: Experimentar
     - title: Economize tempo
       icon: plug-cloud
-      text: Salve seus filtros favoritos. Crie listas de imóveis de interesse. Visualize o local do imóvel mapa e street view.
+      text: Salve seus filtros favoritos. Crie listas de imóveis de interesse. Visualize o local do imóvel no mapa e street view.
       url: /
       buttonText: Experimentar
   section2:
-    title: You're here because you want the best
-    subtitle: And we know it
+    title: Que tal comprar seu imóvel com até 80% de desconto?
+    subtitle: Nós vamos te ajudar...
     features:
-    - title: Powerful and unified interface
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: 1. Encontre seu imóvel
+      text: Use nossa plataforma de busca e encontre o imóvel que atenda a seus requisitos.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: laptop-globe
-    - title: Cross-device synchronisation
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: 2. Saiba como comprar
+      text: Nós te ensinamos o passo a passo para realizar uma compra com segurança. Explore nosso blog.
       icon: doc-sync
-    - title: Nomad system
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+    - title: Conte com especialistas no assunto
+      text: Caso não se sinta seguro, nós indicamos um corretor especialista, credenciado pela Caixa, que poderá te ajudar.
       icon: mobile-feed
   section3:
-    title: One platform
-    subtitle: To rule them all
+    title: Plataforma
+    subtitle: Bazar de imóveis
     image: illustrations/mockups/app-mockup.png
-    buttonText: Get started
+    buttonText: Acesse agora
     buttonLink: "#"
-  section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-    clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
-      img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
-      img: 3
+  # section4:
+  #   title: Our Clients love us!
+  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
+  #   - name: John Bradley
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Financial Analyst
+  #     img: 2
+  #   - name: Gary Blackman
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: HR Manager
+  #     img: 3
   section5: true
   footer:
     # Logo (from /images/logos/___)
@@ -171,7 +171,7 @@ params:
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket
-    bulmalogo: true
+    bulmalogo: false
     quicklinks:
       column1:
         title: "Product"
