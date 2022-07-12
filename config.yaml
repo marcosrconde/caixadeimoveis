@@ -102,12 +102,12 @@ params:
     subtitle: de maneira fácil e rápida
     tiles:
     - title: Atualizado diariamente
-      icon: mouse-globe
+      icon: atualizado
       text: Vasculhamos o site da Caixa todos os dias. Fique atento e descubra os novos imóveis antes dos concorrentes.
       url: /
       buttonText: Entenda
     - title: Filtros avançados
-      icon: laptop-cloud
+      icon: filtro
       text: Busque imóveis por estado, cidade, condições de pagamento, % de desconto, tipo de imóvel e muito mais.
       url: /
       buttonText: Experimentar
