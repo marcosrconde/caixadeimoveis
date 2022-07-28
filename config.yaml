@@ -117,8 +117,8 @@ params:
       url: https://qachado.netlify.app
       buttonText: Experimentar
     - title: Localize o imóvel
-      icon: plug-cloud
-      text: Com um clique vc estará no google maps, visitando o bairro e a rua do imóvel.
+      icon: mapa
+      text: Com um clique você estará no google maps, visitando o bairro e a rua do imóvel.
       url: https://qachado.netlify.app
       buttonText: Experimentar
   section2:
