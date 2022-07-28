@@ -16,8 +16,8 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 HUGO_ENV = 'production'
 
 [[redirects]]
-  from = "/app/*"
-  to = "https://qachado.netlify.app/ :splat"
+  from = "/app"
+  to = "https://qachadoimoveis.appgyverapp.com"
   status = 200
-  force = true
+
 
