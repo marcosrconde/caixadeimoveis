@@ -47,7 +47,7 @@ params:
   - title: Quem somos
     url: /
   - title: Assine já
-    url: /Teste
+    url: /teste/index.html
   - title: Blog
     url: /blog
   # - title: Dropdown
