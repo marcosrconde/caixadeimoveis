@@ -47,9 +47,9 @@ params:
   - title: Quem somos
     url: /
   - title: Assine já
-    url: /
+    url: /Teste
   - title: Blog
-    url: /blog/first
+    url: /blog
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
@@ -98,7 +98,7 @@ params:
   #     - text: App settings
   #       url: /
   section1:
-    title: Encontre grandes oportunidades de negócio
+    title: Grandes oportunidades ao seu alcance
     subtitle: de maneira fácil e rápida
     tiles:
     - title: Atualizado diariamente
