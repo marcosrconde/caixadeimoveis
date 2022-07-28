@@ -104,7 +104,7 @@ params:
     - title: Atualizado diariamente
       icon: atualizado
       text: Vasculhamos o site da Caixa todos os dias. Fique atento e saia na frente.
-      url: /
+      url: /blog/como_mantemos_a_base_de_imoveis/index.html
       buttonText: Entenda
     - title: Filtros avançados
       icon: filtro
