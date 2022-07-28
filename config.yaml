@@ -162,10 +162,10 @@ params:
     # Logo (from /images/logos/___)
     logo: ACHADO_branco.png
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: Siga o QAchado
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://instagram.com
+    - link: https://instagram.com/#
       # Icons are from Font Awesome
       icon: instagram
     - link: https://facebook.com/#
