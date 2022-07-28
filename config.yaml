@@ -49,7 +49,7 @@ params:
   - title: Assine já
     url: /teste/index.html
   - title: Blog
-    url: /blog
+    url: /blog/first/index.html
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
