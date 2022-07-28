@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on QAchado outlet de imóveis</title>
+    <link>http://qachadoimoveis.com/blog/</link>
+    <description>Recent content in Blogs on QAchado outlet de imóveis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 28 Jul 2022 17:08:33 -0300</lastBuildDate><atom:link href="http://qachadoimoveis.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como atualizamos e mantemos a base de dados de imóveis</title>
+      <link>http://qachadoimoveis.com/blog/como_mantemos_a_base_de_imoveis/</link>
+      <pubDate>Thu, 28 Jul 2022 17:08:33 -0300</pubDate>
+      
+      <guid>http://qachadoimoveis.com/blog/como_mantemos_a_base_de_imoveis/</guid>
+      <description>O mercado de imóveis de leilão extrajudicial é bastante dinâmico e boas oportunidades aparecem literalmente todos os dias. Porém, da mesma forma que elas aparecem, podem desaparecer rapidamente. Há imóveis que entram em venda direta online com descontos tão atraentes que desaparecem em menos de 24 ou 48 horas.
+Isso foi uma das primeiras coisas que percebi quando comecei a acompanhar as listas de imóveis da Caixa. Para encontrar as melhores oportunidades eu precisaria me manter atualizado e ser rápido.</description>
+    </item>
+    
+  </channel>
+</rss>
