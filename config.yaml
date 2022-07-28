@@ -1,6 +1,6 @@
-baseURL: https://qachadoimoveis.netlify.app/
+baseURL: http://www.qachadoimoveis.com/
 languageCode: pt-br
-title: Q achado outlet de imóveis
+title: QAchado outlet de imóveis
 theme: "hugo-fresh"
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Acessar plataforma de imóveis
     # Where the main hero button links to
-    buttonlink: "https://imoveiscaixa.appgyverapp.com/"
+    buttonlink: "http:/qachadoimoveis.com/app"
     # Hero image (from static/images/___)
     image: illustrations/capa_ex.png
     # Footer logos (from static/images/logos/clients/___.svg)

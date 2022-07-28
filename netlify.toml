@@ -4,7 +4,6 @@ publish = 'public'
 [build.environment]
 HUGO_VERSION = '0.101.0'
 
-
 [context]
 [context.branch-deploy]
 command = 'hugo -F -b $DEPLOY_PRIME_URL'
@@ -15,3 +14,11 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
+
+[[redirects]]
+  from = "/app"
+  to = "https://qachadoimoveis.appgyverapp.com/"
+  status = 301
+  force = false
+  #query = {path = ":path"}
+  #conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
