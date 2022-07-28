@@ -2,27 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://qachadoimoveis.com/post/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <loc>http://qachadoimoveis.com/blog/</loc>
+    <lastmod>2022-07-28T17:08:33-03:00</lastmod>
+  </url><url>
+    <loc>http://qachadoimoveis.com/blog/como_mantemos_a_base_de_imoveis/</loc>
+    <lastmod>2022-07-28T17:08:33-03:00</lastmod>
   </url><url>
     <loc>http://qachadoimoveis.com/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://qachadoimoveis.com/post/2022-07-28-terceiro-post/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://qachadoimoveis.com/blog/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://qachadoimoveis.com/blog/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>http://qachadoimoveis.com/agb/</loc>
-  </url><url>
-    <loc>http://qachadoimoveis.com/blog/first/</loc>
-  </url><url>
-    <loc>http://qachadoimoveis.com/blog/second/</loc>
-  </url><url>
-    <loc>http://qachadoimoveis.com/teste/</loc>
+    <lastmod>2022-07-28T17:08:33-03:00</lastmod>
   </url>
 </urlset>
