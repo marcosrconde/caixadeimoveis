@@ -165,47 +165,43 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://instagram.com
       # Icons are from Font Awesome
-      icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
+      icon: instagram
     - link: https://facebook.com/#
       icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: https://youtube.com/#
+      icon: youtube
     bulmalogo: false
-    quicklinks:
-      column1:
-        title: "Product"
-        links:
-        - text: Discover features
-          link: /
-        - text: Why choose our product?
-          link: /
-        - text: Compare features
-          link: /
-        - text: Our roadmap
-          link: /
-        - text: AGB
-          link: /agb
-      column2:
-        title: "Docs"
-        links:
-        - text: Get started
-          link: /
-        - text: User guides
-          link: /
-        - text: Admin guide
-          link: /
-        - text: Developers
-          link: /
-      column3:
-        title: "Blog"
-        links:
-        - text: Latest news
-          link: /blog/first
-        - text: Tech articles
-          link: /blog/second
+    # quicklinks:
+    #   column1:
+    #     title: "Product"
+    #     links:
+    #     - text: Discover features
+    #       link: /
+    #     - text: Why choose our product?
+    #       link: /
+    #     - text: Compare features
+    #       link: /
+    #     - text: Our roadmap
+    #       link: /
+    #     - text: AGB
+    #       link: /agb
+    #   column2:
+    #     title: "Docs"
+    #     links:
+    #     - text: Get started
+    #       link: /
+    #     - text: User guides
+    #       link: /
+    #     - text: Admin guide
+    #       link: /
+    #     - text: Developers
+    #       link: /
+    #   column3:
+    #     title: "Blog"
+    #     links:
+    #     - text: Latest news
+    #       link: /blog/first
+    #     - text: Tech articles
+    #       link: /blog/second
