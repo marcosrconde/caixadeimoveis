@@ -139,7 +139,7 @@ params:
     title: Plataforma
     subtitle: QAchado
     image: illustrations/mockups/app-view.png
-    buttonText: Acesse agora
+    buttonText: Cadastre-se grátis
     buttonLink: "https://qachado.netlify.app"
   # section4:
   #   title: Our Clients love us!
