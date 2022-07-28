@@ -160,7 +160,7 @@ params:
   section5: false
   footer:
     # Logo (from /images/logos/___)
-    logo: ACHADO.png
+    logo: ACHADO_branco.png
     # Social Media Title
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
