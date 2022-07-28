@@ -17,7 +17,7 @@ HUGO_ENV = 'production'
 
 [[redirects]]
   from = "/app"
-  to = "https://qachadoimoveis.appgyverapp.com"
+  to = "https://qachado.netlify.app:splat"
   status = 200
 
 
