@@ -1,3 +1,0 @@
-# http and https need separate rules if you don’t force_ssl!
-# http://qachadoimoveis.com/app https://qachadoimoveis.appgyverapp.com/* :splat 301!
-
