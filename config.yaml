@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Acessar plataforma de imóveis
     # Where the main hero button links to
-    buttonlink: "http:/qachadoimoveis.com/app"
+    buttonlink: "/app"
     # Hero image (from static/images/___)
     image: illustrations/capa_ex.png
     # Footer logos (from static/images/logos/clients/___.svg)
