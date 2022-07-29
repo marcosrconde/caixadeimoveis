@@ -165,13 +165,12 @@ params:
     socialmediatitle: Siga-nos
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://instagram.com/#
-      # Icons are from Font Awesome
+    - link: https://www.instagram.com/qachado.imoveis/
       icon: instagram
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://youtube.com/#
-      icon: youtube
+    # - link: https://facebook.com/#
+    #   icon: facebook
+    # - link: https://youtube.com/#
+    #   icon: youtube
     bulmalogo: false
     # quicklinks:
     #   column1:
