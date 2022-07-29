@@ -45,9 +45,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Quem somos
-    url: /
+    url: /quem_somos/index.html
   - title: Assine já
-    url: /teste/index.html
+    url: https://qachado.netlify.app/m-page.Page8.html
   - title: Blog
     url: /blog/como_mantemos_a_base_de_imoveis/index.html
   # - title: Dropdown
