@@ -5,6 +5,7 @@ date: 2022-07-28T17:08:33-03:00
 draft: false
 sidebar: true
 sidebarlogo: qachado_logo_transparente
+include_footer: true
 ---
 
 O mercado de imóveis de leilão extrajudicial é bastante dinâmico e boas oportunidades aparecem literalmente todos os dias. Porém, da mesma forma que elas aparecem, podem desaparecer rapidamente. Há imóveis que entram em venda direta online com descontos tão atraentes que desaparecem em menos de 24 ou 48 horas.
