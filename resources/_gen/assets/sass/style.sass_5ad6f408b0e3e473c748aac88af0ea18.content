@@ -6403,7 +6403,7 @@ footer.footer-dark {
   footer.footer-dark .columns {
     margin-top: 35px; }
   footer.footer-dark .footer-logo img {
-    height: 40px; }
+    height: 60px; }
   footer.footer-dark .footer-column .footer-header h3 {
     font-weight: 500;
     font-size: 1.2rem;
