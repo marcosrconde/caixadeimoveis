@@ -47,7 +47,7 @@ params:
   - title: Quem somos
     url: /quem_somos/index.html
   - title: Assine já
-    url: https://qachado.netlify.app/m-page.Page8.html
+    url: https://qachado.netlify.app/m-page.Page8.html?access=external
   - title: Blog
     url: /blog/como_mantemos_a_base_de_imoveis/index.html
   # - title: Dropdown
