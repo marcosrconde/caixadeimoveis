@@ -2,7 +2,7 @@ baseURL: http://qachadoimoveis.com/
 languageCode: pt-br
 title: QAchado outlet de imóveis
 theme: "hugo-fresh"
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: G-0E0TCQYWTP
 # Disables warnings
 disableKinds:
 - taxonomy
