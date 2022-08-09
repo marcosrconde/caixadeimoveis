@@ -30,7 +30,7 @@ Porém, há também os contras. Veja:
 - Quando a busca é feita pelos editais de licitações, os imóveis do Brasil inteiro são misturados em ordem aleatória e para saber mais detalhes o usuário tem que entrar na página de cada imóvel
 - A lista de imóveis em formato HTML que alguns utilizam não têm todas as informações na tabela e nem as fotos do imóvel, forçando a pessoa a clicar link por link. Além disso, não há uma lista para todo o país. A caixa disponibiliza uma lista por estado.
 
-Esses contras podem parecer inofensivos. Porém, buscar os imóveis dessa forma pode te consumir um tempo enorme que talvez você não tenha. E isso pode te fazer desistir rapidamente. Além disso, essa dificudade no processo de busca vai fazer com que você não veja todas as oportunidades passarem. E você pode perder bons negócios com isso.
+Esses contras podem parecer inofensivos. Porém, buscando os imóveis dessa forma, é certo que você gastará um tempo enorme. E isso pode levá-lo a desistir rapidamente. Além disso, essa dificudade no processo de busca vai fazer com que você não veja todas as oportunidades passarem. E você pode perder bons negócios com isso.
 
 {{% title4 "Procurar nos sites dos leiloeiros" %}}
 
