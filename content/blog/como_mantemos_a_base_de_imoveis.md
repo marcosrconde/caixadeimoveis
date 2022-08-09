@@ -1,6 +1,7 @@
 ---
-title: "Como atualizamos e mantemos a base de dados de imóveis"
+title: Como atualizamos e mantemos a base de dados de imóveis
 author: Marcos Conde
+description: Atualizamos a base de imóveis caixa diariamente para você estar sempre à frente. 
 date: 2022-07-28T17:08:33-03:00
 draft: false
 sidebar: true
