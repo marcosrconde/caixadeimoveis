@@ -26,7 +26,7 @@ Bom, isso tem prós e contras. Vamos primeiros aos Prós:
 Porém, há também os contras. Veja:
 
 - Não há muitos filtros disponíveis
-- Não é possível filtrar todos os imóveis à venda em um determinado estado, apenas cidade por cidade. Se quiser procurar em mais de uma cidade tem que voltar todas as etapas da configuração da busca
+- Não é possível filtrar todos os imóveis à venda em um determinado Estado, apenas cidade por cidade. Se quiser procurar em mais de uma cidade tem que voltar todas as etapas da configuração da busca
 - Quando a busca é feita pelos editais de licitações, os imóveis do Brasil inteiro são misturados em ordem aleatória e para saber mais detalhes o usuário tem que entrar na página de cada imóvel
 - A lista de imóveis em formato HTML que alguns utilizam não têm todas as informações na tabela e nem as fotos do imóvel, forçando a pessoa a clicar link por link. Além disso, não há uma lista para todo o país. A caixa disponibiliza uma lista por estado.
 
