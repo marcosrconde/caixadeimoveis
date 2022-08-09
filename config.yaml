@@ -49,7 +49,7 @@ params:
   - title: Assine já
     url: /assine
   - title: Blog
-    url: /blog/como_mantemos_a_base_de_imoveis/index.html
+    url: /blog
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
