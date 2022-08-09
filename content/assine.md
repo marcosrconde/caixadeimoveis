@@ -1,5 +1,6 @@
 ---
 title: "Escolha seu Plano Premium QAchado"
+description: "Escolha o plano QAcahdo que melhor se encaixa no seu perfil."
 date: 2022-08-01T10:21:10-03:00
 draft: false
 sidebar: false

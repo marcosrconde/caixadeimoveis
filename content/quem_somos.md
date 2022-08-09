@@ -1,5 +1,6 @@
 ---
 title: "Sobre a plataforma QAchado"
+description: O QAchado é uma plataforma de busca de imóveis de leilão que vai facilitar sua vida na hora de procurar oportunidades.
 date: 2022-07-29T16:08:24-03:00
 draft: false
 sidebar: false
