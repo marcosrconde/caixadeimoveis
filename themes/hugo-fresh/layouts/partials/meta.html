@@ -19,7 +19,7 @@
   gtag('config', 'UA-236467692-1');
 </script>
 
-<meta name="description" content="{{.Description | default .Site.Params.SiteDescription}}" />
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.Description}}{{ else if .IsPage}}{{.Description | default .Site.Params.SiteDescription}}{{ end }}" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
