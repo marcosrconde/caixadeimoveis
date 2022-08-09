@@ -1,7 +1,8 @@
 ---
+layout: post
 title: Como encontrar os imóveis Caixa - várias formas
 author: Marcos Conde
-description:  Saiba como encontrar os imóveis de leilão da caixa com descontos de até 90%. Lista completa.
+description:  "Saiba como encontrar os imóveis de leilão da caixa com descontos de até 90%. Lista completa."
 date: 2022-08-08T17:15:03-03:00
 draft: false
 sidebar: true
@@ -9,7 +10,7 @@ sidebarlogo: qachado_logo_transparente
 include_footer: true
 ---
 
-Uma dúvida muito comum que surge na cabeça quem está começando no mercado de leilões de imóveis é **"Onde procurar os imóveis de leilão?"** ou **"Onde encontrar as melhores oportunidades dos leilões de imóveis?"**. Não há uma resposta única para essas perguntas. Os corretores e agentes especializados utilizam métodos e ferramentas variadas para fazer esse garimpo.
+Uma dúvida muito comum que surge na cabeça de quem está começando no mercado de leilões de imóveis é **"Onde procurar os imóveis de leilão?"** ou **"Onde encontrar as melhores oportunidades dos leilões de imóveis?"**. Não há uma resposta única para essas perguntas. Os corretores e agentes especializados utilizam métodos e ferramentas variadas para fazer esse garimpo.
 
 {{% title4 "Procurar imóveis no site da Caixa" %}}
 
