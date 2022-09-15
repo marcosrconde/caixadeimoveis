@@ -13,6 +13,7 @@ Vantagens do plano Premium:
 2. Acesso total à base de dados
 3. Buscas ilimitadas com o filtro de busca avançado
 4. Acesso a imóveis recém adicionados ou que tiveram preços reduzidos
+5. Acesso ao robô garimpeiro QAchado - alerta de oportunidades por e-mail
 5. Salve e gerencie seus imóveis favoritos
 6. Link direto para o Google Maps. Veja a localização no streetview.
 7. Experimente por 7 dias grátis.
