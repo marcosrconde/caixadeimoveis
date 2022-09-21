@@ -107,7 +107,7 @@ Link para a política de privacidade de provedores de serviços terceirizados us
 
 Quero informar que sempre que você usar meu Serviço, em caso de erro no aplicativo, coleto dados e informações (através de produtos de terceiros) em seu telefone chamado Log Data. Esses Dados de Registro podem incluir informações como o endereço do Protocolo de Internet (“IP”) do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, a hora e a data de seu uso do Serviço e outras estatísticas .
 
-**Biscoitos**
+**Cookies**
 
 Cookies são arquivos com uma pequena quantidade de dados que são comumente usados ​​como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
 
