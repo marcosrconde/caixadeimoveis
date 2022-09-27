@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Acessar plataforma de imóveis
     # Where the main hero button links to
-    buttonlink: "https://qachado.netlify.app"
+    buttonlink: "https://app.qachadoimoveis.com"
     # Hero image (from static/images/___)
     image: illustrations/capa_ex.png
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -109,17 +109,17 @@ params:
     - title: Filtros avançados
       icon: filtro
       text: Busque imóveis por estado, cidade, condições de pagamento muito mais.
-      url: https://qachado.netlify.app
+      url: https://app.qachadoimoveis.com
       buttonText: Experimentar
     - title: Economize tempo
       icon: favoritos
       text: Acesse rapidamente e gerencia sua lista de imóveis de interesse.
-      url: https://qachado.netlify.app
+      url: https://app.qachadoimoveis.com
       buttonText: Experimentar
     - title: Localize o imóvel
       icon: mapa
       text: Com um clique você estará no google maps, visitando o bairro e a rua do imóvel.
-      url: https://qachado.netlify.app
+      url: https://app.qachadoimoveis.com
       buttonText: Experimentar
   section2:
     title: Que tal comprar seu imóvel com descontos que podem chegar a até 90%?
@@ -140,7 +140,7 @@ params:
     subtitle: QAchado
     image: illustrations/mockups/app-view.png
     buttonText: Cadastre-se grátis
-    buttonLink: "https://qachado.netlify.app"
+    buttonLink: "https://app.qachadoimoveis.com"
   section4:
     title: O que os nossos clientes têm a dizer?
     subtitle: Abaixo alguns relatos
