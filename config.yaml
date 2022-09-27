@@ -141,22 +141,26 @@ params:
     image: illustrations/mockups/app-view.png
     buttonText: Cadastre-se grátis
     buttonLink: "https://qachado.netlify.app"
-  # section4:
-  #   title: Our Clients love us!
-  #   subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
-  #   clients:
-  #   - name: Irma Walters
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Accountant
-  #     img: 1
-  #   - name: John Bradley
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Financial Analyst
-  #     img: 2
-  #   - name: Gary Blackman
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: HR Manager
-  #     img: 3
+  section4:
+    title: O que os nossos clientes têm a dizer?
+    subtitle: Abaixo alguns relatos
+    clients:
+    - name: Juliana
+      quote: Qachado otimiza nossa tempo na procura de um imóvel, terreno. Tudo centralizado em uma só plataforma, com foto, localização e observações necessárias para avaliação.
+      job: Assinante Premium
+      img: 1
+    - name: Manoel Vasconcelos
+      quote: Excelente! Um das melhores ferramentas do seguimento no Brasil!
+      job: Investidor
+      img: 2
+    - name: Jorge Kodama
+      quote: Excelente ferramenta para quem esta buscando o melhor investimento, indico para todo mundo.
+      job: Corretor credenciado Caixa
+      img: 3
+    - name: Anderson Bento
+      quote: Encontrei esta ferramenta por indicação de um youtuber, iniciei com as funções gratis e logo aderei ao pacote full, pois o preço é justo e as buscas são ilimitadas. Estou gostando muito tanto do produto que entrega quando à atenção dos proprietários pela busca contínua de fazer a ferramenta entregar cada vez mais funcionalidades. Recomendo!
+      job: Investidor
+      img: 2
   section5: true
   footer:
     # Logo (from /images/logos/___)
@@ -167,10 +171,10 @@ params:
     socialmedia:
     - link: https://www.instagram.com/qachado.imoveis/
       icon: instagram
-    # - link: https://facebook.com/#
-    #   icon: facebook
-    # - link: https://youtube.com/#
-    #   icon: youtube
+    - link: https://facebook.com/qachado.imoveis
+      icon: facebook
+    - link: https://www.youtube.com/channel/UCN_4snCNANicy9nZOU-HiRQ
+      icon: youtube
     bulmalogo: false
     # quicklinks:
     #   column1:
