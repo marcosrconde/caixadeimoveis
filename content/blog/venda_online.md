@@ -15,23 +15,23 @@ Essas duas modalidades contemplam a grande maioria dos imóveis vendidos atualme
 
 **<h3>Quais são as vantagens da Venda Online e Venda Direta Online da Caixa?</h3>**
 
-**Primeira vantagem - Descontos expressivos**
+**1ª vantagem - Descontos expressivos**
 
 Os imóveis de leilão que chegam à venda online, já passaram pelo 1º e 2º leilões obrigatórios por lei, e não foram arrematados. Nesses casos, o Banco consolida a propriedade do imóvel e pode vendê-lo pelo preço que bem desejar e da forma que melhor lhe convir. Há imóveis que oferecem até 95% de desconto como lance inicial. Isso mesmo! Se não houver disputa, um lance único pode arrematar o imóvel por apenas 5% do valor de mercado.
 
-**Segunda vantagem - Não há leiloeiro oficial envolvido**
+**2ª vantagem - Não há leiloeiro oficial envolvido**
 
 Enquanto nos leilões e licitações paga-se o equivalente a 5% do valor da arrematação diretamente para o leiloeiro, nas modalidades de Venda Online e Venda Direta Online não existe a figura do leiloeiro. Portanto, não é necessário pagar tal comissão. Ou seja, você economizará nos custos pós arrematação, aumentando a lucratividade do negócio!
 
-**Terceira vantagem - Despesas do imóvel pagas pela Caixa**
+**3ª vantagem - Despesas do imóvel pagas pela Caixa**
 
 Na venda online, a Caixa fica responsável pelos eventuais débitos de IPTU e condomínio. Já nos leilões e licitações, a responsabilidade do pagamento dessas obrigações está expressa nos editais, podendo ser de responsabilidade do arrematante ou da Caixa. Sempre verifique o Edital!
 
-**Quarta vantagem - Possibilidade de financiamento de até 95% do valor da proposta.**
+**4ª vantagem - Possibilidade de financiamento de até 95% do valor da proposta.**
 
 Além de comprar o imóvel com desconto incrível, você pode fazê-lo tirando pouquíssimo dinheiro do bolso. Imagine que encontre um imóvel à venda por R$100 mil - já com desconto. Você terá que desembolsar apenas R$5.000 a título de entrada. Pode, na sequência, vender o imóvel a preço de mercado, quitar o financiamento - e embolsar dezenas de milhares de reais de lucro. Essa é uma excelente forma de entrar para o mercado de leilão de imóveis!
 
-**Quinta vantagem - Conte com a assessoria gratuita de um corretor credenciado da Caixa**
+**5ª vantagem - Conte com a assessoria gratuita de um corretor credenciado da Caixa**
 
 Isso é fantástico! Você pode contar com a ajuda de um corretor especialista nessas modalidades de venda, sem ter que pagar nada por isso. Quem paga a comissão do corretor, caso o negócio seja concluído, é a Caixa. Por isso, recomendamos que sempre use os serviços dos corretores credenciados na hora de comprar um imóvel em Venda Online ou Venda Direta Online!
 
