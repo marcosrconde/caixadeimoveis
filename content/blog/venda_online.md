@@ -45,7 +45,7 @@ Porém, há casos em que o cronômetro chega ao zero sem ter recebido nenhuma pr
 
 A forma mais conhecida e pouco eficiente é pesquisar diretamente no site da Caixa por Estado e cidade. 
 
-A forma mais **fácil, intuitiva e rápida** é através da [**plataforma QAchado**](https://app.qachadoimoveis.com). Basta entrar na **Busca Avançada** e selecionar essas modalidades de venda nas opções disponíveis, ajustar os demais parâmetros da busca e voalá. Você verá todos os imóveis disponíveis e, o melhor, com todas as informações importantes diretamente no card do imóvel.
+A forma mais **fácil, intuitiva e rápida** é através da [**plataforma QAchado**](https://app.qachadoimoveis.com). Basta entrar na **Busca Avançada** e selecionar essas modalidades de venda nas opções disponíveis, ajustar vários outros parâmetros da busca e **_voalá_**. Você verá todos os imóveis disponíveis e, o melhor, com todas as informações importantes diretamente no card do imóvel.
 
 **<h4><a href="https://app.qachadomoveis.com" target="_Blank">Ver os imóveis na plataforma QAchado</a></h4>**
 
