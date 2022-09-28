@@ -47,6 +47,9 @@ A forma mais conhecida e pouco eficiente é pesquisar diretamente no site da Cai
 
 A forma mais **fácil, intuitiva e rápida** é através da [**plataforma QAchado**](https://app.qachadoimoveis.com). Basta entrar na **Busca Avançada** e selecionar essas modalidades de venda nas opções disponíveis, ajustar vários outros parâmetros da busca e **_voalá_**. Você verá todos os imóveis disponíveis e, o melhor, com todas as informações importantes diretamente no card do imóvel.
 
-**<h4><a href="https://app.qachadomoveis.com" target="_Blank">Ver os imóveis na plataforma QAchado</a></h4>**
-
+<p>
+    <a class="button cta rounded primary-btn raised" href="https://app.qachadoimoveis.com">
+      Procurar imóveis na Venda Online da Caixa
+    </a>
+</p>
 
