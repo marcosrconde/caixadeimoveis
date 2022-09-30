@@ -1,0 +1,40 @@
+
+{{ define "main" }}
+
+    {{ if .Params.sidebar }}
+    {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
+    {{ partial "navbar.html" . }}
+    {{ partial "navbar-clone.html" . }}
+
+    {{ partial "single/content.html" . }}
+
+  <section class="section is-medium">
+    <div class="container">
+    <div class="columns">
+        <div class="content">
+    {{ range .Pages }}
+          <h4>
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+        </h4>
+    <p>{{.Description}}</p>
+
+<hr>
+    {{ end }}
+
+      </div>
+    </div>
+  </div>
+</section>
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+    <!-- Back To Top Button -->
+    <div id="backtotop"><a href="#"></a></div>
+
+{{ end }}
+

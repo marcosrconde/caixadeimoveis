@@ -49,7 +49,7 @@ params:
   - title: Assine já
     url: /assine
   - title: Blog
-    url: /blog/como_encontrar_imoveis_caixa_varias_formas
+    url: /blog
   # - title: Dropdown
   #   sublinks:
   #   - title: Dropdown item
