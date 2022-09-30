@@ -19,6 +19,8 @@ Essas duas modalidades contemplam a grande maioria dos imóveis vendidos atualme
 
 Os imóveis de leilão que chegam à venda online, já passaram pelo 1º e 2º leilões obrigatórios por lei, e não foram arrematados. Nesses casos, o Banco consolida a propriedade do imóvel e pode vendê-lo pelo preço que bem desejar e da forma que melhor lhe convir. Há imóveis que oferecem até 95% de desconto como lance inicial. Isso mesmo! Se não houver disputa, um lance único pode arrematar o imóvel por apenas 5% do valor de mercado.
 
+![Oferta em venda direta online, com 45% de desconto](/blog/images/imovel_venda_online_caixa_qachado.JPG)
+
 **2ª vantagem - Não há leiloeiro oficial envolvido**
 
 Enquanto nos leilões e licitações paga-se o equivalente a 5% do valor da arrematação diretamente para o leiloeiro, nas modalidades de Venda Online e Venda Direta Online não existe a figura do leiloeiro. Portanto, não é necessário pagar tal comissão. Ou seja, você economizará nos custos pós arrematação, aumentando a lucratividade do negócio!
@@ -40,6 +42,10 @@ Isso é fantástico! Você pode contar com a ajuda de um corretor especialista n
 Quando a caixa disponibiliza o imóvel em venda online, ela estabelece um tempo para que aquele imóvel aceite propostas com valores crescentes, semelhante aos lances de um leilão. Normalmente dura 3 dias. Na página do imóvel no site da caixa há um cronômetro em contagem regressiva. As ofertas são aceitas até que o cronômetro zere. Ao zerar, a proposta de maior valor tem o direito de finalizar a compra do imóvel. Caso a proposta vencedora não conclua o negócio, a caixa dará o direito às propostas sucessivas.
 
 Porém, há casos em que o cronômetro chega ao zero sem ter recebido nenhuma proposta. Nesses casos, caso o imóvel permaneça disponível, ele estará automaticamente em Venda Direta Online e qualquer proposta maior ou igual ao valor mínimo terá o direito de compra, **sem disputa**.
+
+A figura abaixo mostra a tela com o cronômetro da venda online zerado (mesmo exemplo da imagem acima), ou seja, uma venda direta online. O primeiro que fizer uma oferta acima do valor mínimo tem o direito de finalizar a compra. Nesse caso, o imóvel aceita financiamento habitacional.
+
+![exemplo de imóvel com cromômetro zerado - venda direta online](/blog/images/exemplo_venda_direta_online_caixa.JPG)
 
 **<h3>Onde eu encontro a lista de imóveis em Venda Online e Venda Direta online?</h3>**
 
