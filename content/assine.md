@@ -29,7 +29,7 @@ Vantagens do plano Premium:
             <div class="card-text">
                 <p>Plano mais vantajoso</p>
                 <p>Voltado para o investidor profissional</p>
-                <p>Apenas R$9,90/mês</p>
+                <p>Apenas R$19,83/mês</p>
                 <p>Recorrência de pagamento anual</p>
             </div>
             <div class="card-action">
@@ -44,7 +44,7 @@ Vantagens do plano Premium:
             </div>
             <div class="card-text">
                 <p>Melhor opção para quem quer comprar a casa própria com descontos incríveis</p>
-                <p>Apenas R$14,90/mês</p>
+                <p>Apenas R$24,90/mês</p>
                 <p>Recorrência de pagamento trimestral</p>
             </div>
             <div class="card-action">
@@ -59,7 +59,7 @@ Vantagens do plano Premium:
             </div>
             <div class="card-text">
                 <p>Melhor opção para quem está começando e quer experimentar as funcionalidades da plataforma</p>
-                <p>Apenas R$19,90/mês</p>
+                <p>Apenas R$34,97/mês</p>
                 <p>Recorrência de pagamento mensal</p>
             </div>
             <div class="card-action">
