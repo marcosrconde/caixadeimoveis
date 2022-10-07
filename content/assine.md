@@ -33,7 +33,7 @@ Vantagens do plano Premium:
                 <p>Recorrência de pagamento anual</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/14kg0I9MA9q36dyeUY" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/6oE9Ck3oc59N6dy3ck" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
            </div>
           </div>
@@ -48,7 +48,7 @@ Vantagens do plano Premium:
                 <p>Recorrência de pagamento trimestral</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/dR6g0I5wkdGj59ueUW" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/14k5m4bUIbybgScdQZ" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
           </div>
         </div>
@@ -63,7 +63,7 @@ Vantagens do plano Premium:
                 <p>Recorrência de pagamento mensal</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/aEUcOw6Ao7hVgSc6or" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/28o6q86AofOrcBWfZ8" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
           </div>
         </div>
