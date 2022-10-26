@@ -159,7 +159,7 @@ Vamos comparar os resultados de quatro hipóteses variando a forma de pagamento 
 
 Neste artigo, ensinamos como calcular as receitas e despesas num negócio de compra de imóvel de leilão para revenda. No exemplo estudado, a rentabilidade mínima encontrada foi de 41,6% no cenário de pagamento à vista e venda após 12 meses.
 
-Se fizermos o benchmark com a taxa Selic, ou o IBOVESPA, vemos que o investimento em imóveis de leilão pode alcançar rentabilidades bem superiores. 
+Se fizermos o benchmark com a taxa Selic, ou o IBOVESPA, vemos que o investimento em imóveis de leilão pode alcançar rentabilidades bem superiores. É possível mais que dobrar o capital investido no intervalo de um ano. 
 
 É possível perceber também que a possibilidade de usar financiamento habitacional com entrada de apenas 5% não só permite a entrada nesse mercado com menos capital (no nosso exemplo de R$32 a 40 mil) como também causa um efeito de alavancagem, atingindo a rentabilidade de 145% no caso de compra financiada e revenda do imóvel em 6 meses. 
 
