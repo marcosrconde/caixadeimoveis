@@ -20,9 +20,11 @@ de outros tipos de investimentos e demonstrar que a rentabilidade de imóveis de
 Vamos também comparar a rentabilidade nos casos de pagamento do lance/oferta de compra à vista ou utilizando o 
 financiamento habitacional.
 
-Usaremos como exemplo um imóvel que está disponível em uma licitação aberta da Caixa Econômica no momento em que este 
+Usaremos como exemplo um imóvel que está disponível em um leilão de 2ª praça da Caixa Econômica no momento em que este 
 artigo está sendo escrito. Trata-se de um apartamento no município de Palhoça/SC, de 44m<sup>2</sup>, cujo valor de avaliação é R$165 mil 
 e cujo lance inicial é R$88,1 mil, ou seja, um desconto de 47%.
+
+![Card do imóvel de exemplo - apartamento em Palhoça/SC](/blog/images/captura_imovel_palhoca.JPG)
 
 Para encontrar essa oportunidade, acessamos a [plataforma QAchado](https://app.qachadoimoveis.com) e vasculhamos as oportunidades recém adicionadas pela Caixa (Novos). Na data da pesquisa havia mais de 9 mil imóveis disponíveis, com descontos que chegavam a 94%.
 
@@ -80,7 +82,7 @@ A comissão do leiloeiro é devida em todos os casos em que há um leiloeiro env
 
 Importante observar que nas modalidades de venda direta da Caixa, que incluem a Venda Online e Venda Direta Online, o negócio é realizado diretamente com a Caixa, sem a figura do leiloeiro, portanto não há que se pagar tal comissão.
 
-No nosso exemplo, como se trata de uma Licitação aberta, temos que considerar a comissão do leiloeiro de **5% sobre R$ 88,1 mil = R$ 4.505**
+No nosso exemplo, como se trata de um imóvel em 2º leilão SFI, temos que considerar a comissão do leiloeiro de **5% sobre R$ 88,1 mil = R$ 4.505**
 <hr>
 
 #### Despesas com documentação e cartório
