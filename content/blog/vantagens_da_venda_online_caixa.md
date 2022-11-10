@@ -37,7 +37,7 @@ Além de comprar o imóvel com desconto incrível, você pode fazê-lo tirando p
 
 Isso é fantástico! Você pode contar com a ajuda de um corretor especialista nessas modalidades de venda, sem ter que pagar nada por isso. Quem paga a comissão do corretor, caso o negócio seja concluído, é a Caixa. Por isso, recomendamos que sempre use os serviços dos corretores credenciados na hora de comprar um imóvel em Venda Online ou Venda Direta Online!
 
-> **<a href="/blog/rentabilidade" target=_Blank>Saiba como analisar a viabilidade e rentabilidade na compra de um imóvel de leilão</a>**
+> **<a href="/blog/rentabilidade_dos_imoveis_de_leilao" target=_Blank>Saiba como analisar a viabilidade e rentabilidade na compra de um imóvel de leilão</a>**
 
 **<h3>Mas qual a diferença entre Venda online e Venda Direta Online?</h3>**
 
