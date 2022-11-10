@@ -17,7 +17,7 @@ HUGO_ENV = 'production'
 
 [[redirects]]
   from = "/blog/rentabilidade"
-  to = "/blog/rendabilidade_dos_imoveis_de_leilao"
+  to = "/blog/rentabilidade_dos_imoveis_de_leilao"
 
 
 [[redirects]]
