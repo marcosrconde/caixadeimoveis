@@ -15,6 +15,13 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production.environment]
 HUGO_ENV = 'production'
 
+[[redirects]]
+  from = "/blog/rentabilidade"
+  to = "/blog/rendabilidade_dos_imoveis_de_leilao"
 
+
+[[redirects]]
+  from = "/blog/venda_online"
+  to = "/blog/vantagens_da_venda_online_caixa"
 
 
