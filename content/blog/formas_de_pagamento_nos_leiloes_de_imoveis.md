@@ -58,4 +58,4 @@ Há imóveis que não oferecem a possibilidade de financiamento habitacional, ma
 
 Não se deve confundir o parcelamento nos leilões judiciais e extrajudiciais. Nos leilões extrajudiciais o parcelamento é oferecido pelo banco, há juros e normalmente pode ser feito em até 360 parcelas, dependendo do banco até 420. Nos leilões judiciais o limite são 30 prestações e não há incidência de juros, apenas correção monetária, o que é uma característica bem interessante desse tipo de leilão. Inclusive, no parcelamento de leilões judiciais não é feito qualquer análise de crédito ou consulta a órgãos de proteção ao crédito. Portanto, é uma alternativa para quem quer começar a investir nesse mercado, mas está negativado.
 
-> <a href="/blog/vantagens_da_venda_online_caixa" target=_Blank>**Continue aprendendo:** Entenda os custos envolvidos na compra de um imóvel de leilão</a>
+> <a href="/blog/rentabilidade" target=_Blank>**Continue aprendendo:** Entenda os custos envolvidos na compra de um imóvel de leilão</a>
