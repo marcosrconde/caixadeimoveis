@@ -24,4 +24,6 @@ HUGO_ENV = 'production'
   from = "/blog/venda_online"
   to = "/blog/vantagens_da_venda_online_caixa"
 
-
+[[redirects]]
+  from = "/BlackFriday"
+  to = "/assine"
