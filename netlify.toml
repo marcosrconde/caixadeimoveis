@@ -27,3 +27,7 @@ HUGO_ENV = 'production'
 [[redirects]]
   from = "/BlackFriday"
   to = "/assine"
+
+[[redirects]]
+  from = "/blackfriday"
+  to = "/assine"
