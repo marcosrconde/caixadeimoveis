@@ -15,11 +15,11 @@ Alcançado esse objetivo, partimos para a criação de uma interface de busca qu
 
 O Objetivo da Plataforma QAchado é oferecer uma **ferramenta de busca e de apoio à tomada de decisão no investimento em imóveis de leilão** que seja completa, ágil e que esteja sempre atualizada. Acreditamos que a qualidade da informação é fundamental para o sucesso dos negócios. 
 
-Além disso, oferecemos conteúdo de qualidade sobre todo o processo envolvendo leilões de imóveis, desde a origem desses imóveis, as diferentes fases e modalidades de venda existentes, até todo o processo de compra ou arrematação, desocupação e muito mais [ (acesse nosso blog)]("https://qachadoimoveis.com/blog").
+Além disso, oferecemos conteúdo de qualidade sobre todo o processo envolvendo leilões de imóveis, desde a origem desses imóveis, as diferentes fases e modalidades de venda existentes, até todo o processo de compra ou arrematação, desocupação e muito mais [ (acesse nosso blog)]("/blog").
 
 Em breve também ofereceremos assessoria especializada na arrematação e consultoria jurídica.
 
-Acesse nossa plataforma e siga nossas redes sociais.
+[Acesse nossa plataforma]('https://app.qachadoimoveis.com') e siga nossas redes sociais.
 
 Esperamos que façam ótimos negócios!
 
