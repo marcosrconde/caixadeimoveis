@@ -19,7 +19,7 @@ Além disso, oferecemos conteúdo de qualidade sobre todo o processo envolvendo 
 
 Em breve também ofereceremos assessoria especializada na arrematação e consultoria jurídica.
 
-[Acesse nossa plataforma]('https://app.qachadoimoveis.com') e siga nossas redes sociais.
+<a href='https://app.qachadoimoveis.com' target ='_Blank'>Acesse nossa plataforma</a> e siga nossas redes sociais.
 
 Esperamos que façam ótimos negócios!
 
