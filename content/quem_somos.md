@@ -7,11 +7,17 @@ sidebar: false
 include_footer: true
 ---
 
-Somos uma empresa voltada para a disseminação de informação qualificada sobre o mercado de leilões de imóveis. Começamos nossas atividades em janeiro de 2022, mas só em julho concluímos a primeira versão da plataforma QAchado, uma ferramenta de busca completa onde você poderá encontrar de maneira fácil e rápida os imóveis disponibilizados pela Caixa Econômica Federal.
+A empresa QAchado nasceu do nosso desejo ampliar o acesso a informações de qualidade sobre os leilões de imóveis, em especial os imóveis de leilão extrajudicial da Caixa Econômica Federal. Esse é um mercado pouco explorado pelos brasileiros e muitas vezes por simples desconhecimento ou, quando conhecido, cercado por mitos e preconceitos. Logo no início das nossas atividades, percebemos que o garimpo de imóveis com desconto diretamente no site da Caixa era penoso, pouco prático e tomava um tempo enorme. Precisávamos fazer alguma coisa para facilitar a vida das pessoas.
 
-Nossa intenção com a plataforma é oferecer uma ferramenta de busca de imóveis completa, ágil e que esteja sempre atualizada. Estamos certos de que isso é fundamental para qualquer pessoa que se interesse por esse mercado. 
+Iniciamos nossas atividades em janeiro de 2022 aplicando nosso __expertise__ em programação na criação de algoritmos que fossem capazes de construir e manter atualizada uma base de dados contendo todos os imóveis da Caixa Econômica, e que contivesse todas as informações importantes para a tomada de decisão num investimento desse tipo.
 
-Além disso, esperamos oferecer conteúdo de qualidade sobre todo o processo envolvendo leilões de imóveis, desde a origem desses imóveis, as diferentes fases e modalidades de venda existentes, até todo o processo de compra ou arrematação, desocupação e muito mais.
+Alcançado esse objetivo, partimos para a criação de uma interface de busca que fosse atraente, amigável e que realmente facilitasse o garimpo das oportunidades por parte do usuário. Lançamos a Plataforma QAchado em agosto/2022 e, desde então, continuamos aprimorando-a e criando novas funcionalidades como o Robô Garimpeiro QAchado (alerta por email) e a Calculadora de Viabilidade QAchado. 
+
+O Objetivo da Plataforma QAchado é oferecer uma ferramenta de busca e de apoio à tomada de decisão no investimento em imóveis de leilão que seja completa, ágil e que esteja sempre atualizada. Acreditamos que a qualidade da informação é fundamental para o sucesso dos negócios. 
+
+Além disso, oferecemos conteúdo de qualidade sobre todo o processo envolvendo leilões de imóveis, desde a origem desses imóveis, as diferentes fases e modalidades de venda existentes, até todo o processo de compra ou arrematação, desocupação e muito mais.
+
+Em breve também ofereceremos assessoria especializada na arrematação e consultoria jurídica.
 
 Acesse nossa plataforma e siga nossas redes sociais.
 
