@@ -18,7 +18,7 @@ Vantagens do plano Premium:
 7. Link direto para o Google Maps. Veja a localização no streetvie
 8. Acesso aos imóveis em disputa
 9. Experimente gratuitamente por 7 dias
-10. Calculadora de viabilidade QAchado 
+10. Calculadora de viabilidade e rentabilidade QAchado
 11. Garantia de acesso a todos os aprimoramentos futuros que façam parte do plano Premium
 
  <div class="content-wrapper">

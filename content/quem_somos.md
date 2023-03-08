@@ -21,5 +21,5 @@ Em breve também ofereceremos assessoria especializada na arrematação e consul
 
 <a href='https://app.qachadoimoveis.com' target =_Blank>Acesse nossa plataforma</a> e siga nossas redes sociais.
 
-Esperamos que façam ótimos negócios!
+Esperamos que façam ótimos negócios! 
 
