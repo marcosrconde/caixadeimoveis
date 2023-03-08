@@ -54,7 +54,7 @@ de utilização do FGTS para compra de imóvel. Você encontra os requisitos e d
 
 ### Parcelamento
 
-Há imóveis que não oferecem a possibilidade de financiamento habitacional, mas que o banco oferece a possibilidade de parcelamento em até 60 vezes. Nesse caso, os juros não são tão atraentes quanto no financiamento habitacional, mas ainda assim pode ser que valha muito a pena, dependendo do desconto. 
+Há imóveis que não oferecem a possibilidade de financiamento habitacional, mas que o banco oferece a possibilidade de parcelamento em até 60 vezes. Nesse caso, os juros não são tão atraentes quanto no financiamento habitacional, mas ainda assim pode ser que valha muito a pena, dependendo do desconto.
 
 Não se deve confundir o parcelamento nos leilões judiciais e extrajudiciais. Nos leilões extrajudiciais o parcelamento é oferecido pelo banco, há juros e normalmente pode ser feito em até 360 parcelas, dependendo do banco até 420. Nos leilões judiciais o limite são 30 prestações e não há incidência de juros, apenas correção monetária, o que é uma característica bem interessante desse tipo de leilão. Inclusive, no parcelamento de leilões judiciais não é feito qualquer análise de crédito ou consulta a órgãos de proteção ao crédito. Portanto, é uma alternativa para quem quer começar a investir nesse mercado, mas está negativado.
 
