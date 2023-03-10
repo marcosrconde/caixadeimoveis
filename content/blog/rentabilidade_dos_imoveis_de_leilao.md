@@ -163,7 +163,7 @@ Se fizermos o benchmark com a taxa Selic, ou o IBOVESPA, vemos que o investiment
 
 É possível perceber também que a possibilidade de usar financiamento habitacional com entrada de apenas 5% não só permite a entrada nesse mercado com menos capital (no nosso exemplo de R$32 a 40 mil) como também causa um efeito de alavancagem, atingindo a rentabilidade de 145% no caso de compra financiada e revenda do imóvel em 6 meses. 
 
-> **NOTÍCIA IMPORTANTE**: Estamos desenvolvendo uma calculadora dinâmica para cálculo de rentabilidade de negócios em leilões de imóveis e venda direta. A ferramenta estará disponível dentro da plataforma QAchado em breve.
+> **NOTÍCIA IMPORTANTE**: Já está disponível a calculadora dinâmica para cálculo de rentabilidade de negócios em leilões de imóveis e venda direta. Para acessar basta clicar no ícone de calculadora ao lado do preço do imóvel.
 
 <p>
     <a class="button cta rounded primary-btn raised" href="https://app.qachadoimoveis.com">
