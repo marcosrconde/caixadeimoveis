@@ -7,7 +7,7 @@ sidebar: false
 include_footer: true
 ---
 
-A empresa QAchado nasceu do nosso desejo ampliar o acesso a informações de qualidade sobre os leilões de imóveis, em especial os imóveis de leilão extrajudicial da Caixa Econômica Federal. Esse é um mercado pouco explorado pelos brasileiros e muitas vezes por simples desconhecimento ou, quando conhecido, cercado por mitos e preconceitos. Logo no início das nossas atividades, percebemos que o garimpo de imóveis com desconto diretamente no site da Caixa era penoso, pouco prático e tomava um tempo enorme. Precisávamos fazer alguma coisa para facilitar a vida das pessoas.
+A empresa QAchado nasceu do desejo de se ampliar o acesso a informações de qualidade sobre os leilões de imóveis, em especial os imóveis de leilão extrajudicial da Caixa Econômica Federal. Esse é um mercado pouco explorado pelos brasileiros e muitas vezes por simples desconhecimento ou, quando conhecido, cercado por mitos e preconceitos. Logo no início das nossas atividades, percebemos que o garimpo de imóveis com desconto diretamente no site da Caixa era penoso, pouco prático e tomava um tempo enorme. Precisávamos fazer alguma coisa para facilitar a vida das pessoas.
 
 Iniciamos nossas atividades em janeiro de 2022 aplicando nosso *expertise* em programação na **criação de algoritmos** que fossem capazes de construir e manter atualizada uma base de dados contendo todos os imóveis da Caixa Econômica, e que contivesse todas as informações importantes para a tomada de decisão num investimento desse tipo.
 
