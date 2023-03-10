@@ -26,9 +26,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Encontre imóveis com descontos incríveis
+    title: Encontre as melhores oportunidades dos imóveis de leilão
     # Hero subtitle (optional)
-    subtitle: O Qachado é o mais completo serviço de busca de imóveis de leilão extrajudicial. Um banco de dados completo e atualizado diariamente. Imóveis de leilão da Caixa, venda direta, venda online, licitações e muito mais. Imóveis com até 90% de desconto. Economize tempo utilizando filtros de busca avançados. Experimente!
+    subtitle: O Objetivo da Plataforma QAchado é oferecer uma ferramenta de busca e de apoio à tomada de decisão no investimento em imóveis de leilão que seja completa, ágil e que esteja sempre atualizada. A qualidade da informação é fundamental para o sucesso dos negócios.Experimente!
     # Button text
     buttontext: Acessar plataforma de imóveis
     # Where the main hero button links to
