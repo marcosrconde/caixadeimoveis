@@ -28,15 +28,15 @@ Porém, há também os contras. Veja:
 - Não há muitos filtros disponíveis
 - Não é possível filtrar todos os imóveis à venda em um determinado Estado, apenas cidade por cidade. Se quiser procurar em mais de uma cidade tem que voltar todas as etapas da configuração da busca
 - Quando a busca é feita pelos editais de licitações, os imóveis do Brasil inteiro são misturados em ordem aleatória e para saber mais detalhes o usuário tem que entrar na página de cada imóvel
-- A lista de imóveis em formato HTML que alguns utilizam não têm todas as informações na tabela e nem as fotos do imóvel, forçando a pessoa a clicar link por link. Além disso, não há uma lista para todo o país. A caixa disponibiliza uma lista por estado.
+- A lista de completa imóveis é que disponibilizada em formato .csv não possui todas as informações sobre o imóvel e tampouco as fotos, forçando a pessoa a clicar link por link. Além disso, não há uma lista para todo o país. A caixa disponibiliza uma lista por estado.
 
-Esses contras podem parecer inofensivos. Porém, buscando os imóveis dessa forma, é certo que você gastará um tempo enorme. E isso pode levá-lo a desistir rapidamente. Além disso, essa dificudade no processo de busca vai fazer com que você não veja todas as oportunidades passarem. E você pode perder bons negócios com isso.
+Esses contras podem parecer irrelevantes. Porém, buscando os imóveis dessa forma, é certo que você gastará um tempo enorme. E isso pode levá-lo a desistir rapidamente. Além disso, essa dificudade no processo de busca vai fazer com que você não veja todas as oportunidades passarem. E você pode perder bons negócios com isso.
 
 {{% title4 "Procurar nos sites dos leiloeiros" %}}
 
-Atualmente os leilões são realizados em pregões virtuais. Ou seja, é possível fazer lances diretamente pelo site do leiloeiro. Portanto, os leiloeiros sempre possuem um site onde, além de realizar os certames, eles divulgam os lotes que serão disputados. Os leiloeiros recebem 5% de comissão com a venda dos imóveis. Sendo assim, é do interesse deles que haja publicidade. Por isso frequentemente vemos notícias em grandes portais anunciando "Banco X leiloa Y imóveis com descontos de até 60%".
+Atualmente os leilões são realizados em pregões virtuais. Ou seja, é possível dar lances diretamente pelo site do leiloeiro. Portanto, os leiloeiros sempre possuem um site onde, além de realizar os certames, eles divulgam os lotes que serão disputados. Os leiloeiros recebem 5% de comissão com a venda dos imóveis. Sendo assim, é do interesse deles que haja publicidade. Por isso frequentemente vemos notícias em grandes portais anunciando "Banco X leiloa 200 imóveis com descontos de até 60%".
 
-Se pesquisar os imóveis apenas no site dos leiloeiros é garantido que deixará excelentes oportunidades passarem. Isso por que não é factível ter clareza de todos os editais que estão em andamento dessa forma. Ou você não verá a notícia ou pode não conhecer o site de um leiloeiro menos "badalado".
+Se pesquisar os imóveis apenas no site dos leiloeiros é garantido que deixará excelentes oportunidades passarem. Isso por que não é factível ter clareza de todos os editais que estão em andamento dessa forma. Das duas uma: ou você não verá a notícia ou pode não conhecer o site de um leiloeiro menos "badalado".
 
 Pesquisando no site dos leiloeiros você também deixará passar as oportunidades de venda online e venda direta online, na qual você pode fazer uma proposta diretamente no site da Caixa. A maior parte dos Imóveis Caixa estão disponíveis nessas duas modalidades. Como os imóveis vendidos na modalidade de venda online já passaram pelos leilões, os descontos podem ser absurdos e em muitos casos não haverá concorrência.
 
@@ -68,17 +68,19 @@ O card o imóvel traz todas as informações importantes diretamente na tela, se
 
 No plano Premium o usuário tem vantagens adicionais, principalmente o acompanhamento das "Novidades", que são os imóveis que a Caixa acaba de colocar na lista ou que tiveram o preço reduzido. É possível também para o usuário Premium gerenciar seus imóveis favoritos. Assim fica muito mais fácil voltar e rever as informações dos imóveis selecionados sem ter que fazer a busca novamente.
 
+Outra ferramenta disponível é o **Robô Garimpeiro QAchado** (alerta por e-mail), que também está disponível para os usuários Premium. Trata-se de um método para automatizar o acompanhamento das novas oportunidades. Funciona da seguinte forma: O usuário configura uma lista de cidades de interesse e um conjunto de filtros e nosso algoritmo verifica diariamente se há imóveis que atendam esses critérios e envia uma lista para o e-mail do usuário.
+
 A interface da plataforma é responsiva. Isso quer dizer que o site funciona muito bem tanto na tela do computador/notebook quanto na tela dos smartphones.
 
 O cadastro é gratuito!
 
 <p>
-    <a class="button cta rounded primary-btn raised" href="https://qachado.netlify.app">
+    <a class="button cta rounded primary-btn raised" href="https://app.qachadoimoveis.com">
       Acessar plataforma QAchado
     </a>
 </p>
 
-
+> <a href="/blog/rentabilidade" target=_Blank>**Continue aprendendo:** Entenda os custos envolvidos na compra de um imóvel de leilão</a>
 
 
 
