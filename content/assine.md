@@ -15,7 +15,8 @@ Vantagens do plano Premium:
 4. Acesso a imóveis recém adicionados ou que tiveram preços reduzidos
 5. Acesso ao robô garimpeiro QAchado - alerta de oportunidades por e-mail
 6. Salve e gerencie seus imóveis favoritos
-7. Link direto para o Google Maps. Veja a localização no streetvie
+7. Salve seus filtros favoritos e economize tempo todos os dias
+7. Link direto para o Google Maps. Veja a localização no streetview
 8. Acesso aos imóveis em disputa
 9. Experimente gratuitamente por 7 dias
 10. Calculadora de viabilidade e rentabilidade QAchado
@@ -31,11 +32,12 @@ Vantagens do plano Premium:
             <div class="card-text">
                 <p>Plano mais vantajoso</p>
                 <p>Voltado para o investidor profissional</p>
-                <p>Apenas R$19,83/mês</p>
+                <p>Você paga R$298,80/ano</p>
+                <p>É equivalente a R$24,90/mês</p>
                 <p>Recorrência de pagamento anual</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/6oE9Ck3oc59N6dy3ck" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/4gwg0I0c09q3eK47sM" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
            </div>
           </div>
@@ -45,12 +47,13 @@ Vantagens do plano Premium:
               <h4>Plano Trimestral</h4>
             </div>
             <div class="card-text">
-                <p>Melhor opção para quem quer comprar a casa própria com descontos incríveis</p>
-                <p>Apenas R$24,90/mês</p>
+                <p>Melhor opção para quem quer está a procura da casa própria ou começando no mundo dos leilões de imóveis</p>
+                <p>Você paga R$98,70/trimestre</p>
+                <p>É equivalente a R$32,90/mês</p>
                 <p>Recorrência de pagamento trimestral</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/14k5m4bUIbybgScdQZ" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/dR6bKs5wkgSvcBW6oJ" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
           </div>
         </div>
@@ -60,12 +63,12 @@ Vantagens do plano Premium:
               <h4>Plano Mensal</h4>
             </div>
             <div class="card-text">
-                <p>Melhor opção para quem quer experimentar as funcionalidades da plataforma antes de assinar outros planos, ou para quem prefere pagar mensalmente e cancelar a qualquer momento</p>
-                <p>Apenas R$34,97/mês</p>
+                <p>Experimente as funcionalidades da plataforma antes de assinar outros planos. Ideal também para quem prefere pagar mensalmente</p>
+                <p>Você paga R$42,90/mês</p>
                 <p>Recorrência de pagamento mensal</p>
             </div>
             <div class="card-action">
-              <a href="https://buy.stripe.com/28o6q86AofOrcBWfZ8" class="button btn-align-md accent-btn raised">Assinar</a>
+              <a href="https://buy.stripe.com/8wM01K0c06dRcBW14q" class="button btn-align-md accent-btn raised">Assinar</a>
             </div>
           </div>
         </div>
