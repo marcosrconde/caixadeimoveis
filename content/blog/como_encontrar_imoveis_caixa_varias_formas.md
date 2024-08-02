@@ -44,7 +44,7 @@ E você ainda precisa tomar cuidado com os sites falsos de leiloeiros. Sempre co
 
 {{% title4 "Contar com a ajuda de consultores" %}}
 
-Outra forma de você conhecer as melhores oportunidades é contar com serviços de consultoria e assessoria jurídica. Há diversos corretores, imobiliárias e escritórios que prestam esse serviço. Nesse caso, a lista de imóveis chegará filtrada. Você dependerá do julgamento do consultor que irá te apresentar as oprotunidades que ele acha interessante. E esse serviço pode não ser muito barato, prejudicando sua expectativa de lucro com o negócio.
+Outra forma de você conhecer as melhores oportunidades é contar com serviços de consultoria e assessoria jurídica. Há diversos corretores, imobiliárias e escritórios que prestam esse serviço. Nesse caso, a lista de imóveis chegará filtrada. Você dependerá do julgamento do consultor que irá te apresentar as oportunidades que ele acha interessante. E esse serviço pode não ser muito barato, prejudicando sua expectativa de lucro com o negócio.
 
 Se você optar por essa estratégia coloque o custo do serviço no seu planejamento e avalie se o negócio ainda vale a pena.
 
@@ -52,19 +52,19 @@ Se você optar por essa estratégia coloque o custo do serviço no seu planejame
 
 A Plataforma QAchado foi desenvolvida especificamente para lidar com essa parte da jornada do investidor de imóveis de leilão que é a prospecção das oportunidades. O garimpo dos melhores negócios. O foco da plataforma é fazer com que o usuário economize tempo e possa estar sempre atento às oportunidades em todas as modalidades de venda, seja leilões, licitações abertas ou venda online.
 
-<a href="https://qachado.netlify.app" target="_Blank">![Plataforma QAchado](/blog/images/Pagina_QAchado.PNG)</a>
+<a href="https://app.qachadoimoveis.com" target="_Blank">![Plataforma QAchado](/blog/images/filtro_qachado.PNG)</a>
 
-A base de dados contempla todos os Imóveis Caixa e é atualizada diariamente.
+A base de dados contempla todos os Imóveis Caixa, Santander e Resale, e é atualizada diariamente.
 
-É possível filtrar os imóveis por estado, cidade, modalidade de venda, valor máximo, por valor do desconto, condições de pagamento e tipo de imóvel. O usuário consegue ainda ordenar os resultados por preço ou por valor do desconto.
+É possível filtrar os imóveis por estado, cidade, bairro, modalidade de venda, valor máximo, por valor do desconto, condições de pagamento, tipo de imóvel, data de encerramento do leilão, existência ou não de ação judicial, estado de ocupação e muito mais. O usuário consegue ainda ordenar os resultados por preço ou por valor do desconto.
 
-Todas as informações são fidedignas, pois são extraídas diretamente da fonte, que são as páginas dos imóveis Caixa e dos editais. O site não faz intermediação. Caso decida comprar o imóvel, basta o usuário clicar em "+ detalhes" que é direcionado para a página do imóvel.
+Todas as informações são fidedignas, pois são extraídas diretamente da fonte, que são as páginas dos imóveis Caixa e dos editais. O site não faz intermediação. Caso decida comprar o imóvel, basta o usuário clicar em "+ detalhes" que é direcionado para a página do imóvel no site da Caixa ou do leiloeiro.
 
-É possível também, com apenas um click, o usuário abrir a página ou app do google maps no endereço do imóvel. E se houver imagem do Street View recente é possível visualizar a vizinhança e a fachada do imóvel. Tudo muito fácil!
+É possível também, com apenas um click, o usuário abrir a página ou app do google maps no endereço do imóvel. E, se houver imagem do Street View recente, é possível visualizar a vizinhança e a fachada do imóvel. Tudo muito fácil!
 
 O card o imóvel traz todas as informações importantes diretamente na tela, sem entra e sai de página. Foto, valor de avaliação, valor do lance/proposta inicial, % de desconto, endereço, caraterísticas do imóvel, link do edital, site do leiloeiro designado, data do leilão, matrícula do imóvel e condições de pagamento aceitas.
 
-<a href="https://qachado.netlify.app" target="_Blank">![Card de imóvel no QAchado](/blog/images/card_qachado.png)</a>
+<a href="https://qachado.netlify.app" target="_Blank">![Card de imóvel no QAchado](/blog/images/Pagina_QAchado.PNG)</a>
 
 No plano Premium o usuário tem vantagens adicionais, principalmente o acompanhamento das "Novidades", que são os imóveis que a Caixa acaba de colocar na lista ou que tiveram o preço reduzido. É possível também para o usuário Premium gerenciar seus imóveis favoritos. Assim fica muito mais fácil voltar e rever as informações dos imóveis selecionados sem ter que fazer a busca novamente.
 
