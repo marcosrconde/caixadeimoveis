@@ -68,7 +68,7 @@ O card o imóvel traz todas as informações importantes diretamente na tela, se
 
 No plano Premium o usuário tem vantagens adicionais, principalmente o acompanhamento das "Novidades", que são os imóveis que a Caixa acaba de colocar na lista ou que tiveram o preço reduzido. É possível também para o usuário Premium gerenciar seus imóveis favoritos. Assim fica muito mais fácil voltar e rever as informações dos imóveis selecionados sem ter que fazer a busca novamente.
 
-Outra ferramenta disponível é o **Robô Garimpeiro QAchado** (alerta por e-mail), que também está disponível para os usuários Premium. Trata-se de um método para automatizar o acompanhamento das novas oportunidades. Funciona da seguinte forma: O usuário configura uma lista de cidades de interesse e um conjunto de filtros e nosso algoritmo verifica diariamente se há imóveis que atendam esses critérios e envia uma lista para o e-mail do usuário.
+Outra ferramenta disponível é o **Robô Garimpeiro QAchado** (alerta por e-mail), que também está disponível para os usuários Premium. Trata-se de um método para automatizar o acompanhamento das novas oportunidades. Funciona da seguinte forma: O usuário configura uma lista de cidades ou Estados de interesse e um conjunto de filtros, nosso algoritmo verifica diariamente se há imóveis que atendam esses critérios e envia uma lista para o e-mail do usuário.
 
 A interface da plataforma é responsiva. Isso quer dizer que o site funciona muito bem tanto na tela do computador/notebook quanto na tela dos smartphones.
 
