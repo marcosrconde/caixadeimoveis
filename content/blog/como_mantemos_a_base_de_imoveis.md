@@ -23,6 +23,8 @@ Ao longo do dia seguinte, a Caixa vai recebendo ofertas pelos imóveis e à medi
 
 Assim, conseguimos manter uma base de dados sempre atualizada e, melhor ainda, colocamos tudo isso disponível para que você também possa economizar seu precioso tempo e encontrar excelentes oportunidades de negócio.
 
+Atualmente, nossa base também conta com os imóveis do Santander e da Resale. Nesses casos, a atualização também é diária.
+
 Veja o exemplo abaixo:
 
 ![oferta com desconto de 90% em SP](/blog/images/imovel_desconto_SP_QAchado.png)
