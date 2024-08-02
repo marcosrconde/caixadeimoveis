@@ -17,9 +17,9 @@ Porém, quando comecei a procurar os imóveis, me frustei completamente. Seria u
 
 Logo, idealizei que seria necessário criar um sistema automatizado que literalmente vasculhasse o site da Caixa diariamente e organizasse tudo em um banco de dados contendo todas as informações possíveis sobre os imóveis. Comecei a trabalhar nessa ideia.
 
-Assim começou a história do QAchado. Criamos uma espécie de robô para fazer esse "trabalho pesado". Diariamente o robô QAchado compara as listas de imóveis, identifica as novidades na lista mais atual e também os imóveis que tiveram o preço reduzido, entra na página de cada imóvel no site da Caixa e obtém todas as informações que hoje estão disponíveis na nossa plataforma. Essa atualização acontece no período da noite, às 22h. Então aqui vai uma dica valiosa: Todos os dias por volta das 22h30 atualizamos a base de dados completa. Fique sempre atento aos imóveis "novos".
+Assim começou a história do QAchado. Criamos uma espécie de robô para fazer esse "trabalho pesado". Diariamente o robô QAchado compara as listas de imóveis, identifica as novidades na lista mais atual e também os imóveis que tiveram o preço reduzido, entra na página de cada imóvel no site da Caixa e obtém todas as informações que hoje estão disponíveis na nossa plataforma. As atualizações da nossa base de dados são feitas sempre durante a madrugada. Então aqui vai uma dica valiosa: Todos os dias, por volta das 6:30 da manhã nosso sistema já concluiu as atualizações de todas as modalidades. Fique sempre atento à lista de imóveis "novos", que são aqueles imóveis que apareceram pela primeira vez ou que tiveram algum tipo de alteração de preço ou modalidade.
 
-Ao longo do dia seguinte, a Caixa vai recebendo ofertas pelos imóveis e à medida que isso acontece, os imóveis vão ficando indisponíveis para venda. Para conseguir captar esse movimento e não perder tempo entrando na página de imóveis que já não estão disponíveis, criamos um segundo algoritmo que é executado ao longo do horário comercial. Esse algoritmo "carimba" o imóvel como indisponível caso se depare com aquela frase "O imóvel que você procura não está mais disponível para venda."
+Ao longo do dia seguinte, a Caixa vai recebendo ofertas pelos imóveis e à medida que isso acontece, os imóveis vão ficando indisponíveis para venda (Venda Direta Online), e os imóveis da Venda Online vão recebendo ofertas e ficando com o status "em disputa". Para conseguir captar esse movimento e não perder, criamos um segundo algoritmo que é executado ao longo do horário comercial. Esse algoritmo "carimba" o imóvel como "em disputa" ou como "indisponível". Essa atualização é feita 5 vezes ao longo do dia.
 
 Assim, conseguimos manter uma base de dados sempre atualizada e, melhor ainda, colocamos tudo isso disponível para que você também possa economizar seu precioso tempo e encontrar excelentes oportunidades de negócio.
 
@@ -33,7 +33,7 @@ Esse imóvel em bairro nobre de São Paulo entrou em venda direta com 90% de des
 
 Experimente usar nossa plataforma para navegar pelos milhares de imóveis com desconto da nossa base de dados?
 
-<a href="https://qachado.netlify.app" target="_Blank">**Cadastre-se grátis e acesse aqui**</a>
+<a href="https://app.qachadoimoveis.com" target="_Blank">**Cadastre-se grátis e acesse aqui**</a>
 
 
 
