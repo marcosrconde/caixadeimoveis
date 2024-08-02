@@ -122,7 +122,7 @@ params:
       url: https://app.qachadoimoveis.com
       buttonText: Experimentar
   section2:
-    title: Que tal comprar seu imóvel com descontos que podem chegar a até 90%?
+    title: Que tal comprar seu imóvel com descontos que podem chegar a até 94%?
     subtitle: Nós vamos te ajudar...
     features:
     - title: 1. Encontre seu imóvel
@@ -149,18 +149,18 @@ params:
       quote: Qachado otimiza nossa tempo na procura de um imóvel, terreno. Tudo centralizado em uma só plataforma, com foto, localização e observações necessárias para avaliação.
       job: Assinante Premium
       img: 1
-    # - name: Manoel Vasconcelos
-    #   quote: Excelente! Um das melhores ferramentas do seguimento no Brasil!
-    #   job: Investidor
-    #   img: 2
+    - name: Manoel Vasconcelos
+      quote: Excelente! Um das melhores ferramentas do seguimento no Brasil!
+      job: Investidor e assessor
+      img: 2
     - name: Jorge Kodama
       quote: Excelente ferramenta para quem esta buscando o melhor investimento, indico para todo mundo.
       job: Corretor credenciado Caixa
       img: 3
-    - name: Anderson Bento
-      quote: Encontrei esta ferramenta por indicação de um youtuber, iniciei com as funções grátis e logo aderi ao pacote Premium, pois o preço é justo e as buscas são ilimitadas. Estou gostando muito, tanto do produto que entrega quanto da atenção dos proprietários, que buscam continuamente entregar cada vez mais funcionalidades. Recomendo!
-      job: Investidor
-      img: 2
+    # - name: Anderson Bento
+    #   quote: Encontrei esta ferramenta por indicação de um youtuber, iniciei com as funções grátis e logo aderi ao pacote Premium, pois o preço é justo e as buscas são ilimitadas. Estou gostando muito, tanto do produto que entrega quanto da atenção dos proprietários, que buscam continuamente entregar cada vez mais funcionalidades. Recomendo!
+    #   job: Investidor
+    #   img: 2
   section5: true
   footer:
     # Logo (from /images/logos/___)
